@@ -1,6 +1,6 @@
 # SpotiSync
 
-SpotiSync is a Python automation project created by Uzair that enables users to download their favorite Spotify playlists as MP3 files effortlessly. With SpotiSync, you can convert your Spotify playlists into downloadable audio files, making it easier to enjoy your music offline or on other devices.
+SpotiSync is a Python automation project that enables users to download their favorite Spotify playlists as MP3 files effortlessly. With SpotiSync, you can convert your Spotify playlists into downloadable audio files, making it easier to enjoy your music offline or on other devices.
 
 ## Features
 
