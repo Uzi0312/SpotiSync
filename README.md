@@ -17,6 +17,7 @@ To use SpotiSync, follow these steps:
 3. Use Spotify for Developers & Google Cloud Console to create respective API's.
 4. Run the `spotisync.py` script with your API Keys & Client ID
 5. Downloaded songs will be stored in 'Downloads' folder
+6. Initial run will open the Spotify website for confirmation & store a .cache file for future executions.
 
 ## Versions
 1. Version 1 uses only Spotify API and uses pyautogui & webbrowser to fetch links. Longer run time but no restriction on playlist size.
